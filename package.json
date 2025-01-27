@@ -27,5 +27,6 @@
     "@types/node": "22.10.7",
     "@types/react": "19.0.7",
     "@types/react-dom": "19.0.3"
-  }
+  },
+  "packageManager": "pnpm@8.4.0+sha1.73c608c602d520c436c7b250330315d83ffcc1ee"
 }
